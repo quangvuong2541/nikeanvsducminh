@@ -1,0 +1,9 @@
+export const ADD_TO_CARD = "ADD_TO_CARD"
+export const REMOVE_TO_CARD = "REMOVE_TO_CARD"
+export const UPDATE_SIZE_COLOR = "UPDATE_SIZE_COLOR"
+export const RESET_CART = "RESET_CART"
+
+
+export const ADD_TO_CARDFAVOR = "ADD_TO_CARDFAVOR"
+export const REMOVECARDFAVOR = "REMOVECARDFAVOR"
+export const DELETE_FAVOR = "DELETE_FAVOR"
